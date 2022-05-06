@@ -4,8 +4,4 @@ L2
 -
 R3
 -
-<<<<<<< HEAD
-R4
-=======
-L4
->>>>>>> b08bceda2c8ae25eb5a6868a6ac1aa7225e4ae8a
+LR4
